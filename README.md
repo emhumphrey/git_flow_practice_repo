@@ -11,3 +11,4 @@ jtseaton@dons.usfca.edu
 
 Jordan will add some really awesome code that will make the project perfect  
 
+The goal of the project is to learn to use GitHub for collaboration!
